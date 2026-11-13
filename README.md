@@ -1,6 +1,6 @@
 # Ben Agdipa
 
-Wireless engineer with 20+ years in LTE/5G RAN, now focused on building software and automation for networks. I design the engineering logic and ship the tools myself, and I use AI-assisted development (LLMs and coding agents) heavily in how I work.
+Wireless engineer with 20+ years in mobile networks and RAN, from 2G and 3G through LTE and 5G, now focused on building software and automation for networks. I design the engineering logic and ship the tools myself, and I use AI-assisted development (LLMs and coding agents) heavily in how I work.
 
 ## What I work with
 
